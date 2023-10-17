@@ -1,0 +1,13 @@
+@import "{{ site.theme }}";
+
+header > a.btn {
+	display: none;
+}
+
+footer > span.site-footer-owner {
+	display: none;
+}
+
+footer > span.site-footer-credits {
+	display:none;
+}
