@@ -2,4 +2,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Centis Telecom
-description: Automação Telefônica e Call Centers
+description: Automação Telefônica e Call Center com Chat Unificado Multi-plataforma
